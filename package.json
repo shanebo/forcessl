@@ -1,0 +1,12 @@
+{
+  "name": "@calvin/forcessl",
+  "version": "0.1.0",
+  "description": "Middleware for Calvin which redirects http requests to https.",
+  "license": "MIT",
+  "keywords": [
+    "middleware"
+  ],
+  "repository": "calvinjs/forcessl",
+  "author": "Shane Thacker <shane@steadymade.com>",
+  "main": "./index"
+}
