@@ -1,10 +1,11 @@
 {
-  "name": "@dylanjs/forcessl",
+  "name": "@dylan/forcessl",
   "version": "0.1.0",
   "description": "Middleware for Dylan which redirects http requests to https.",
   "license": "MIT",
   "keywords": [
-    "middleware"
+    "middleware",
+    "dylan"
   ],
   "repository": "dylanjs/forcessl",
   "author": "Shane Thacker <shane@steadymade.com>",

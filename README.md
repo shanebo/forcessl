@@ -4,12 +4,12 @@ Middleware for Dylan which redirects http requests to https.
 
 ## Install
 
-`npm install @dylanjs/forcessl`
+`npm install @dylan/forcessl`
 
 ## Usage
 
 ``` js
-const forcessl = require('@dylanjs/forcessl');
+const forcessl = require('@dylan/forcessl');
 app.use(forcessl());
 ```
 
